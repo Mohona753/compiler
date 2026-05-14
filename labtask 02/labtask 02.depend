@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1775628397 source:c:\users\hp\onedrive\labtask 02\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
